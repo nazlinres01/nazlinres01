@@ -57,4 +57,9 @@ I've recently developed a strong passion for space and I'm eager to learn more a
 
 📫 **How to reach me**  
 - [LinkedIn](https://www.linkedin.com/in/nazl%C4%B1-nur-esmeray-155a36213/)  
-- [Email](mailto:nazlinuresmeray049@gmail.com)  
+- [Email](mailto:nazlinuresmeray049@gmail.com)
+
+## 🏆 Profile Visits
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
