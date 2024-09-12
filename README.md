@@ -20,11 +20,7 @@ Nazlı Nur Esmeray := &Info {
 ## ⚡ Teknolojiler
 
 **Diller:**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%F7DF1E) JavaScript
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) TypeScript
-- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) C#
-- ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white) C++
-- ![Python](https://img.shields.io/badge/Python-%233B74B1.svg?style=flat&logo=python&logoColor=white) Python
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%F7DF1E) [TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233B74B1.svg?style=flat&logo=python&logoColor=white)
 
 **Frameworks:**
 - ![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=flat&logo=angular&logoColor=white) Angular
