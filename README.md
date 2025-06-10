@@ -28,32 +28,14 @@
 
 ## 🌟 Featured Projects
 
-### 📄 Smart CV Analysis & Job Recommendation  
-🧠 AI-based web tool for:
-- Parsing CVs to extract skillsets
-- Identifying incomplete info
-- Recommending jobs using NLP & cosine similarity  
-**Tech:** React, Flask, spaCy  
-🔗 [View Project](https://github.com/nazlinres01)
+### 🤖 CloneBot - Autonomous Software Robot System  
+🧠 AI-powered web app for:  
+- Managing self-replicating autonomous robots  
+- Auto task distribution & status tracking  
+- Visual clone hierarchy & system performance monitoring  
+**Tech:** React, TypeScript, Express, Drizzle ORM  
+🔗 [View Project](https://github.com/nazlinres01/CloneSwarm)
 
----
-
-### 🎭 Real-Time Facial Emotion Recognition  
-📹 Detects live facial expressions via webcam:  
-- Trained on FER2013 dataset  
-- Visual timeline of emotions  
-**Tech:** OpenCV, Keras, TensorFlow  
-🔗 [View Project](https://github.com/nazlinres01)
-
----
-
-### 💰 Emek Puan: Alternative Economy System  
-🌱 Community app that:
-- Rewards volunteering with points  
-- Uses QR for discounts  
-- Encourages local economy  
-**Tech:** React, TypeScript, MongoDB, Express.js  
-🔗 [View Project](https://github.com/nazlinres01)
 
 ---
 
